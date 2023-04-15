@@ -22,5 +22,12 @@ Scaling row group sizes to 84.47% for 8 writers
 2023-04-15 10:33:55,372 WARN hadoop.MemoryManager: Total allocation exceeds 95.00% (906,992,014 bytes) of heap memory
 Scaling row group sizes to 96.54% for 7 writers
 
+streamingDf = spark.readStream.format("rate").load()
+stream = streamingDf.selectExpr("value as id").writeStream.format("delta").option("checkpointLocation", "/tmp/checkpoint").start("/tmp/delta-table")
+
+
 
 val stream2 = spark.readStream.format("delta").load("/tmp/delta-table1").writeStream.format("console").start()
+
+
+stream2 = spark.readStream.format("delta").load("/tmp/delta-table").writeStream.format("console").start()
