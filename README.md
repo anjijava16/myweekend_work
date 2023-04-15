@@ -1,5 +1,7 @@
 # myweekend_work
 
+# Reference's
+1. https://github.com/aws-samples/emr-on-eks-hudi-iceberg-delta/blob/main/hudi/hudi_scd_script.py
 
 # Weekend work
 1. Create a EMR Cluster (should be 6.10)
