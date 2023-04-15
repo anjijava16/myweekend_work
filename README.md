@@ -6,6 +6,7 @@
 3. https://aws.amazon.com/blogs/big-data/build-slowly-changing-dimensions-type-2-scd2-with-apache-spark-and-apache-hudi-on-amazon-emr/
 4. https://iomete.com/blog/cheat-sheet-for-apache-iceberg
 5. https://bigdataboutique.com/blog/introduction-to-apache-hudi-c83367
+6.https://www.tencentcloud.com/document/product/1026/35587
 
 # Weekend work
 1. Create a EMR Cluster (should be 6.10)
