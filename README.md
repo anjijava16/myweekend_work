@@ -4,6 +4,8 @@
 1. https://github.com/aws-samples/emr-on-eks-hudi-iceberg-delta/blob/main/hudi/hudi_scd_script.py
 2. https://aws.amazon.com/blogs/big-data/get-a-quick-start-with-apache-hudi-apache-iceberg-and-delta-lake-with-amazon-emr-on-eks/
 3. https://aws.amazon.com/blogs/big-data/build-slowly-changing-dimensions-type-2-scd2-with-apache-spark-and-apache-hudi-on-amazon-emr/
+4. https://iomete.com/blog/cheat-sheet-for-apache-iceberg
+
 
 # Weekend work
 1. Create a EMR Cluster (should be 6.10)
