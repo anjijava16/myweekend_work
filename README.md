@@ -9,8 +9,9 @@
 5. https://bigdataboutique.com/blog/introduction-to-apache-hudi-c83367
 6. https://www.tencentcloud.com/document/product/1026/35587
 7. https://github.com/vasveena/DemoNotes
-8. https://medium.com/@parveen.jindal/having-your-cake-and-eating-it-too-how-vizio-built-a-next-generation-data-platform-to-enable-bi-4fc42c539543
-9. https://medium.com/@florent.moiny/databricks-cost-reduction-cheat-sheet-126be465e09
+8. https://github.com/ev2900/Iceberg_EMR_Athena/tree/main
+9. https://medium.com/@parveen.jindal/having-your-cake-and-eating-it-too-how-vizio-built-a-next-generation-data-platform-to-enable-bi-4fc42c539543
+10. https://medium.com/@florent.moiny/databricks-cost-reduction-cheat-sheet-126be465e09
 # Weekend work
 1. Create a EMR Cluster (should be 6.10)
 2. Connect to SSH
